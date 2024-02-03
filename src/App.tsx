@@ -50,9 +50,7 @@ function App() {
                     but I know a little about Python, JS, Kotlin, React and others.
                 </div>
 
-                <div
-                    className="px-3 py-2 mb-2 bg-gray-900 rounded-lg shadow-sm dark:bg-gray-700"
-                    style={{visibility: visible ? 'visible' : 'hidden'}}>
+                <div className="px-3 py-2 mb-2 bg-gray-900 rounded-lg shadow-sm dark:bg-gray-700"  style={{visibility: visible ? 'visible' : 'hidden'}}>
                     <p className="text-sm font-medium text-white">{text}</p>
                 </div>
 
