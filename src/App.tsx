@@ -55,7 +55,7 @@ function App() {
                 </div>
 
                 <div className="flex flex-wrap mb-8 items-center">
-                    <ImageLink url="www.linkedin.com/in/jose-arnald0" src={linkedin} description="LinkedIn"/>
+                    <ImageLink url="https://linkedin.com/in/jose-arnald0" src={linkedin} description="LinkedIn"/>
                     <ImageLink url="mailto:jose@arnaldo.dev" src={gmail} description="Gmail" target={''}/>
 
                     <div
