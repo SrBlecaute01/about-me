@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SrBlecaute01/about-me/static/css/main.97f5ccd1.css",
-    "main.js": "/SrBlecaute01/about-me/static/js/main.9cb0f95f.js",
-    "static/js/787.55c86885.chunk.js": "/SrBlecaute01/about-me/static/js/787.55c86885.chunk.js",
-    "static/media/profile.jpg": "/SrBlecaute01/about-me/static/media/profile.2cdde57e6edb5785643c.jpg",
-    "static/media/discord.svg": "/SrBlecaute01/about-me/static/media/discord.2d25fb550dad21a77475faf4b320e3b1.svg",
-    "static/media/linkedin.svg": "/SrBlecaute01/about-me/static/media/linkedin.063c36b5fb94ebe5063cf17ab7012046.svg",
-    "static/media/github.svg": "/SrBlecaute01/about-me/static/media/github.a51a69acd57bb275dcd42143ae1a83e0.svg",
-    "index.html": "/SrBlecaute01/about-me/index.html",
-    "static/media/gmail.svg": "/SrBlecaute01/about-me/static/media/gmail.c4b82750aa3f393637abf2c9fa828e33.svg",
-    "static/media/twitter.svg": "/SrBlecaute01/about-me/static/media/twitter.7fa42358b30c236999fccaff2a159efb.svg",
-    "main.97f5ccd1.css.map": "/SrBlecaute01/about-me/static/css/main.97f5ccd1.css.map",
-    "main.9cb0f95f.js.map": "/SrBlecaute01/about-me/static/js/main.9cb0f95f.js.map",
-    "787.55c86885.chunk.js.map": "/SrBlecaute01/about-me/static/js/787.55c86885.chunk.js.map"
+    "main.css": "/about-me/static/css/main.97f5ccd1.css",
+    "main.js": "/about-me/static/js/main.9b333969.js",
+    "static/js/787.55c86885.chunk.js": "/about-me/static/js/787.55c86885.chunk.js",
+    "static/media/profile.jpg": "/about-me/static/media/profile.2cdde57e6edb5785643c.jpg",
+    "static/media/discord.svg": "/about-me/static/media/discord.2d25fb550dad21a77475faf4b320e3b1.svg",
+    "static/media/linkedin.svg": "/about-me/static/media/linkedin.063c36b5fb94ebe5063cf17ab7012046.svg",
+    "static/media/github.svg": "/about-me/static/media/github.a51a69acd57bb275dcd42143ae1a83e0.svg",
+    "static/media/gmail.svg": "/about-me/static/media/gmail.c4b82750aa3f393637abf2c9fa828e33.svg",
+    "index.html": "/about-me/index.html",
+    "static/media/twitter.svg": "/about-me/static/media/twitter.7fa42358b30c236999fccaff2a159efb.svg",
+    "main.97f5ccd1.css.map": "/about-me/static/css/main.97f5ccd1.css.map",
+    "main.9b333969.js.map": "/about-me/static/js/main.9b333969.js.map",
+    "787.55c86885.chunk.js.map": "/about-me/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97f5ccd1.css",
-    "static/js/main.9cb0f95f.js"
+    "static/js/main.9b333969.js"
   ]
 }
